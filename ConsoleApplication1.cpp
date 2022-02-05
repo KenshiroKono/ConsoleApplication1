@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hellooooooooo World!\n";
+    std::cout << "ここをリモートで変更World!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
